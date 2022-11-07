@@ -7,4 +7,4 @@ Maven command to build the native image:
 mvn spring-boot:build-image
 
 Docker command to run the native image as Docker container:
-docker run -p 8080:8080 graalvm:0.5
+docker run -p 8080:8080 graalvm:0.6
